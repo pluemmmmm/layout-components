@@ -1,0 +1,10 @@
+.box {
+    border: 1px solid rgb(39, 132, 148);
+    border-radius: 12px;
+    padding: 8px 16px;
+  }
+
+  .title {
+    border-bottom: 4px solid rgba(120, 120, 120);
+    padding-bottom: 5px;
+  }
